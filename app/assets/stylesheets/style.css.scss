@@ -1,0 +1,112 @@
+$black: #200;
+$linkColor: #46a546;
+@import "bootstrap";
+body {
+  padding-top: 60px;
+}
+
+
+@import "bootstrap-responsive";
+.nav-icon{
+margin-top:12px;
+margin-right: -5px;
+float:right;
+}
+.carousel
+{margin-top: -10px;}
+
+.recomment{
+margin-left:50px;
+padding-left:50px;
+}
+
+.form-actions{
+margin-top:0px;
+}
+
+.orange{
+color: #f89406;
+margin-bottom: 10px;
+}
+
+.priceOld{
+	color: #333;
+	text-decoration: line-through;
+}
+.priceNew{
+	color: #F30;
+}
+
+section {
+  overflow: auto;
+}
+
+textarea {
+  resize: vertical;
+}
+
+.center {
+  text-align: center;
+}
+
+.center h1 {
+  margin-bottom: 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1;
+}
+
+
+p {
+  font-size: 1.1em;
+  line-height: 1.7em;
+}
+
+#logo {
+  float: left;
+  margin-right: 10px;
+  font-size: 1.7em;
+  color:  #46a546;
+  letter-spacing: -1px;
+  padding-top: 9px;
+  font-weight: bold;
+  line-height: 1;
+  text-decoration: none;
+}
+
+#logo:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+
+
+footer {
+  margin-top: 45px;
+  padding-top: 5px;
+  border-top: 1px solid #eaeaea;
+  color: #999;
+}
+
+footer a {
+  color: #555;
+}  
+
+footer a:hover { 
+  color: #222;
+}
+
+footer small {
+  float: left;
+}
+
+footer ul {
+  float: right;
+  list-style: none;
+}
+
+footer ul li {
+  float: left;
+  margin-left: 10px;
+}

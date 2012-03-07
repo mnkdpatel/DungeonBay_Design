@@ -1,0 +1,43 @@
+== DungeonBay mock-ups
+DungeonBay mock-ups developed using Twitter Bootstrap
+
+Heroku links:
+link:http://gentle-mist-2229.herokuapp.com.
+
+Including below pages design:
+  * home
+link:http://gentle-mist-2229.herokuapp.com/
+
+  *about
+link:http://gentle-mist-2229.herokuapp.com/about
+
+  * results page
+link:http://gentle-mist-2229.herokuapp.com/searchResult
+
+  * view individual item (including ability to bid)
+link:http://gentle-mist-2229.herokuapp.com/itemDetail
+
+  * cart
+link:http://gentle-mist-2229.herokuapp.com/cart
+
+ * checkout
+link:http://gentle-mist-2229.herokuapp.com/order
+
+==Twitter Bootstrap
+Here are some good link for taking up this handy tool quickly:
+
+Bootstrap website
+http://twitter.github.com/bootstrap/index.html
+
+webdesign
+link:http://webdesign.tutsplus.com/tutorials/complete-websites/twitter-bootstrap-101-the-grid/
+
+rails tutorial chapter5
+link:http://ruby.railstutorial.org/chapters/filling-in-the-layout?version=3.2#sec:custom_css
+
+net-tut
+link:http://net.tutsplus.com/tutorials/html-css-techniques/quick-tip-you-need-to-check-out-less-js/
+
+rails cast
+link:http://railscasts.com/episodes/328-twitter-bootstrap-basics
+
